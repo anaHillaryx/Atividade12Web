@@ -12,4 +12,4 @@ Esta atividade foi realizada como parte das práticas da disciplina **Desenvolvi
 
 ## 🛠 Tecnologia Utilizada
 
-- **HTML5**: A principal tecnologia utilizada foi o **HTML5** (Hypertext Markup Language ver
+- **HTML5**: A principal tecnologia utilizada foi o **HTML5** 
